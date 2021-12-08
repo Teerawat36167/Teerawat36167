@@ -1,5 +1,5 @@
 # Hi I'm Teerawat, Welcome to my Github profile👋:blush:
-👨🏻‍💻About Me
+<h3>👨🏻‍💻About Me</h3>
 * :mortar_board:I’m currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
 ## :love_letter: Get in touch :love_letter:
