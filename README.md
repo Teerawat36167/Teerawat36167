@@ -1,4 +1,4 @@
-# Hi I'm Teerawat Chanvipardilok, Welcome to my Github profile👋:blush:
+# Hi I'm Teerawat, Welcome to my Github profile👋:blush:
 
 
 <!--
