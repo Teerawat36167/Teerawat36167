@@ -1,4 +1,4 @@
-# Hi I'm Teerawat, Welcome to my Github profile👋:blush:
+# 👋Hi I'm Teerawat, Welcome to my Github profile:blush:
 <h3>:smiley:About Me</h3>
 <ul>
   <li> :mortar_board:I’m currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang. </li>
