@@ -1,5 +1,5 @@
-# Welcome to my Github profile
-## I'm Teerawat Chanvipardilok
+# Hi I'm Teerawat Chanvipardilok, Welcome to my Github profile👋:blush:
+
 
 <!--
 **Teerawat36167/Teerawat36167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
