@@ -1,7 +1,7 @@
 # Hi I'm Teerawat, Welcome to my Github profile👋:blush:
 <h3>:smiley:About Me</h3>
 - :mortar_board:I’m currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
-- dawdsad
+- Teerawat
 
 ## :love_letter: Get in touch :love_letter:
 :bookmark: [Facebook](https://www.facebook.com/profile.php?id=100003479055098)<br>
