@@ -10,7 +10,7 @@
 :bookmark: [Twitter](https://twitter.com/djsjabjdkak)<br>
 
 ## Languages and Tools :wrench:
-<img height="50" width="45" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" >
+<img height="50" width="45" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" src="https://image.flaticon.com/icons/png/512/732/732212.png">
 <img height="50" width="45" src="https://image.flaticon.com/icons/png/512/732/732212.png" >
 
 <!--
