@@ -9,7 +9,8 @@
 :bookmark: [Instagram](https://www.instagram.com/tee.trw_/)<br>
 :bookmark: [Twitter](https://twitter.com/djsjabjdkak)<br>
 
-## Languages and Tool
+## Languages and Tools :wrench:
+<img height="32" width="32" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" />
 
 <!--
 **Teerawat36167/Teerawat36167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
