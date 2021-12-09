@@ -10,7 +10,7 @@
 :bookmark: [Twitter](https://twitter.com/djsjabjdkak)<br>
 
 ## Languages and Tools :wrench:
-<img height="50" width="40" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" />
+<img height="50" width="45" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" />
 
 <!--
 **Teerawat36167/Teerawat36167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
