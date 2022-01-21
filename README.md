@@ -15,7 +15,10 @@
 <img align="left" height="50" width="50" alt="Arduino" src="https://icon-library.com/images/arduino-icon-png/arduino-icon-png-5.jpg" />
 <img align="left" height="50" width="50" alt="html" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" height="50" width="45" alt="css" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" />
+
+<!-- Framework -->
 <img align="left" height="50" width="50" alt="bootstrap5" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+
 <!--tools-->
 <img align="left" height="50" width="45" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" height="50" width="50" alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
