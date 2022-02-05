@@ -12,7 +12,6 @@
 ## Languages and Tools :wrench:
 <img align="left" height="50" width="45" alt="C" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" />
 <img align="left" height="50" width="50" alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
-<img align="left" height="50" width="50" alt="Arduino" src="https://icon-library.com/images/arduino-icon-png/arduino-icon-png-5.jpg" />
 <img align="left" height="50" width="50" alt="html" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" height="50" width="45" alt="css" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" />
 
