@@ -16,7 +16,7 @@
 <img align="left" height="50" width="45" alt="css" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" />
 
 <!-- Framework -->
-<img align="left" height="50" width="50" alt="bootstrap5" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+
 
 <!--tools-->
 <img align="left" height="50" width="45" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
