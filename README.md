@@ -22,6 +22,17 @@
 <img align="left" height="50" width="45" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" height="50" width="50" alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 
+<br>
+<br>
+<br>
+
+<div align="center">
+  <img
+   src="https://github-readme-stats.vercel.app/api/top-langs?username=Teerawat36167&show_icons=true&locale=en&layout=compact"
+   alt="Teerawat36167"
+  />
+</div>
+
 <!--
 **Teerawat36167/Teerawat36167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
