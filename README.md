@@ -10,17 +10,18 @@
 :bookmark: [Twitter](https://twitter.com/djsjabjdkak)<br>
 
 ## Languages and Tools :wrench:
-<img align="left" height="50" width="45" alt="C" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" />
-<img align="left" height="50" width="50" alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
-<img align="left" height="50" width="50" alt="html" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" height="50" width="45" alt="css" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" />
-
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
 <!-- Framework -->
-
-
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> 
 <!--tools-->
-<img align="left" height="50" width="45" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" height="50" width="50" alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img height="45" width="45" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img height="45" width="45" alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</p>
 
 <br>
 <br>
