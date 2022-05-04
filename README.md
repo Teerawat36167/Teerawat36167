@@ -23,15 +23,7 @@
 <img height="45" width="45" alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </p>
 
-<br>
-<br>
-<br>
-
-<div align="center">
-  <img
-   src="https://github-readme-stats.vercel.app/api/top-langs?username=Teerawat36167&show_icons=true&locale=en&layout=compact"
-  />
-</div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teerawat36167&show_icons=true&locale=en&layout=compact" alt="teerawat36167" /></p>
 
 <!--
 **Teerawat36167/Teerawat36167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
