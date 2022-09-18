@@ -8,7 +8,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Teerawat36167&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
